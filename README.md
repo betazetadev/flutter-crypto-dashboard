@@ -2,6 +2,8 @@
 
 This project is a cross-platform desktop application built with **Flutter** that allows users to visualize cryptocurrency prices through interactive charts. The application is designed to work on **Windows**, **macOS**, and **Linux**.
 
+> **Note:** This project is part of a tutorial. You can follow the full tutorial on how to build this app [here](https://betazeta.dev/blog/flutter-desktop-libraries).
+
 ## Features
 
 - Real-time cryptocurrency price visualization for popular coins.
@@ -66,3 +68,11 @@ Follow these steps to clone and run the application on your local environment:
 ## License
 
 This project is licensed under the GPL-3.0 License. You can find the details in the [LICENSE](LICENSE) file.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- GitHub: [betazetadev](https://github.com/betazetadev)
+- Email: hi@betazeta.dev
+- Website: [betazeta.dev](https://betazeta.dev)
