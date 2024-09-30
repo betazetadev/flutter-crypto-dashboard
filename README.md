@@ -29,13 +29,13 @@ Follow these steps to clone and run the application on your local environment:
 1. Clone the repository:
 ```bash
 
-   git clone https://github.com/your-username/crypto_dashboard.git
+   git clone https://github.com/betazetadev/flutter-crypto-dashboard.git
     
 ```
 2. Navigate to the project directory:
 ```bash
 
-   cd crypto_dashboard
+   cd flutter-crypto-dashboard
     
 ```
 
