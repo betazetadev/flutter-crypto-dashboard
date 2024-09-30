@@ -252,11 +252,12 @@ class _CryptoDashboardState extends State<CryptoDashboard> {
                         return Padding(
                           padding: const EdgeInsets.symmetric(horizontal: 4.0),
                           child: FilterChip(
-                            label: Text(crypto),
+                            label: Text(crypto, style: const TextStyle(color: Colors.white)),
                             backgroundColor: _selectedCryptos[crypto]!
                                 ? _cryptoList[crypto]
                                 : null,
                             selectedColor: _cryptoList[crypto],
+                            checkmarkColor: Colors.white,
                             selected: _cryptoPrices.containsKey(crypto),
                             onSelected: (bool selected) {
                               if (_selectedCryptoList.length == 1 && !selected) {
